@@ -1,0 +1,12 @@
+hadoop\mapReduce_combiner\WordCountMapper.class
+hadoop\mapReduce\WordCountReduce.class
+hadoop\mapReduce_combiner\PartitionerOwn.class
+hadoop\mapReduce_sort\PairWritable.class
+hadoop\mapReduce_sort\JobMain.class
+hadoop\mapReduce_sort\SortReduce$Counter.class
+hadoop\mapReduce\JobMain.class
+hadoop\mapReduce_sort\SortMapper.class
+hadoop\mapReduce\WordCountMapper.class
+hadoop\mapReduce_combiner\WordCountReduce.class
+hadoop\mapReduce_sort\SortReduce.class
+hadoop\mapReduce_combiner\JobMain.class
