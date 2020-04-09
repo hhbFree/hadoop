@@ -18,7 +18,7 @@ public class JobMain extends Configured implements Tool {
         //启动任务
         int run = ToolRunner.run(configuration, new JobMain(), args);
         System.exit(run);
-        //冲突1
+        //冲突222222
     }
 
     public int run(String[] strings) throws Exception {
